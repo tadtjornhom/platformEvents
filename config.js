@@ -1,6 +1,6 @@
 exports.PORT = 3001;
 exports.DEBUG = true;
-exports.ENVIRONMENT = 'production';
+exports.ENVIRONMENT = 'production1';
 exports.CALLBACK_URL = 'http://localhost:3001';
 exports.PUSH_TOPIC = 'AccountsTopic';
 
